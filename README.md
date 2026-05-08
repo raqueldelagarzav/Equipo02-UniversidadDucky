@@ -8,7 +8,7 @@
 8. DFD's. DONE
 9. Descripción de Procesos. DONE
 10. Aplicación Construida. 
-11. Firmas de Aceptación de la Propuesta de Negocio (1)
+11. Firmas de Aceptación de la Propuesta de Negocio (1) DONE
 12. Carta de Aceptación firmadas de la primera entrega.
-13. Minutas de Junta sobre entregas (2) del Proyecto.
-14. Propuestas de Mejora (2) de cada entrega.
+13. Minutas de Junta sobre entregas (2) del Proyecto. DONE
+14. Propuestas de Mejora (2) de cada entrega. DONE
