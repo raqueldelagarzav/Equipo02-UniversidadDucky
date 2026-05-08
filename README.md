@@ -1,11 +1,11 @@
 1. Matriz de Rastreabilidad del Proyecto.
-2. Análisis de Riesgos.
-3. Sprint Backlogs completos.
-4. Casos de Uso en su totalidad.
+2. Análisis de Riesgos. DONE
+3. Sprint Backlogs completos. DONE
+4. Casos de Uso en su totalidad. DONE
 5. Prototipo Completo.
 6. Diagrama de Clases.
 7. Base de Datos customizada.
-8. DFD's.
+8. DFD's. DONE
 9. Descripción de Procesos.
 10. Aplicación Construida.
 11. Firmas de Aceptación de la Propuesta de Negocio (1)
