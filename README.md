@@ -1,4 +1,4 @@
-1. Matriz de Rastreabilidad del Proyecto.
+1. Matriz de Rastreabilidad del Proyecto. DONE
 2. Análisis de Riesgos. DONE
 3. Sprint Backlogs completos. DONE
 4. Casos de Uso en su totalidad. DONE
